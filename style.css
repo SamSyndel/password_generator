@@ -12,7 +12,6 @@ section > p{
     text-align: center;
     font-size: 45px;
     color: #fff;
-    font-family: 'Source Code Pro', monospace;
     font-weight: bold;
     margin-bottom: 10px;
 }
@@ -63,7 +62,6 @@ body{
     border-radius: 4px;
     cursor: pointer;
     margin-top: 40px;
-    font-family: 'Source Code Pro';
     font-weight: bold;
     font-size: 18px;
 }
